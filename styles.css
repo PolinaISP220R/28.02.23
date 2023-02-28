@@ -1,0 +1,18 @@
+.knopki{
+background-color: rgb(198, 234, 252);
+color: azure;
+height: 50px;
+font-size: 30px;
+}
+
+.mb-3{
+    background-color: rgb(198, 234, 252);
+    display: flex;
+    height: 50px;
+    width: 600px;
+}
+
+.button1{
+ padding-left: 200px;
+}
+
